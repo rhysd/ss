@@ -695,6 +695,12 @@ All Screenshots
 ![](rust-webview-example/main.png)
 
 
+## [tofu-font/](https://github.com/rhysd/tofu-font/)
+* [tofu-mono-preview.png](tofu-font/tofu-mono-preview.png)
+
+![](tofu-font/tofu-mono-preview.png)
+
+
 ## [translate-markdown/](https://github.com/rhysd/translate-markdown/)
 * [main.gif](translate-markdown/main.gif)
 
